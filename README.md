@@ -1,3 +1,3 @@
 # Ideas
 
-Hi, I'm a designer who wants to learn front-end development.
+Hi, I'm a designer who is learning front-end web development.
